@@ -5,3 +5,6 @@
 
 #### Brain-even demonstration
 [![asciicast](https://asciinema.org/a/Cj00bUm1GWmv6RTWNNkt7ASIS.svg)](https://asciinema.org/a/Cj00bUm1GWmv6RTWNNkt7ASIS)
+
+#### Brain-calc demonstration
+[![asciicast](https://asciinema.org/a/0qI5jQRqoHq0gBO9QAwTce0rN.svg)](https://asciinema.org/a/0qI5jQRqoHq0gBO9QAwTce0rN)
