@@ -9,3 +9,6 @@ publish:
 
 lint:
 	npx eslint .
+
+test:
+	npx --node-options=--experimental-vm-modules jest --colors
